@@ -69,13 +69,26 @@ Once a file has been added to the project, the georeferencing process can begin.
  
  2. For maps, locate the point of an intersecting latitude and longitude line on the raster image and click. A red box should appear, indicating the selection on the map
  Note: It can be helpful to click intersections of lines divisible by 5. 
+ 
+ ![Initial Selection](images/InitialSelection.PNG)
+ 
  3. Turn off the raster layer by clicking the check box next to its name in the Contents pane. 
  4. Find the corresponding coordinates on the original world map and click. It is best to be as precise as possible to ensure minimal error. 
+ 
+ ![Second Selection](images/SecondSelection.PNG)
+ 
  5. Once this is done, a control point is added. 
+ 
+ ![Control Point](images/ControlPoint.PNG)
+ 
  6. Continue this step until enough control points are added for the desired transformation. The more control points that are added, the more precise the transformation will be. It is also best to have the control points spaced out instead of clumped together to avoid skewing the image. 
  Note: Spline is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when fewer control points are possible. 
+ 
+ ![Control Points](images/ControlPoints/PNG)
+ 
+##### Deleting Control Points
 
-#### Transforming the Image
+##### Transforming the Image
 
 #### Saving the Project
 
