@@ -119,6 +119,30 @@ Do not fret if a control point is misplaced or results in a skewed image. They a
 (Where should I put this section?)
 
 #### Saving the Project
+When finished with the project, it is important to ensure that it is saved properly. Clicking the save icon in the top left corner of the screen will not save the georeferenced data. 
+
+There are two ways to ensure a proper save.
+-1. Click Save in the Save section of the Georeference tab. This will update the existing raster file that was imported into the project
+
+![Save](images/Save.PNG)
+
+-2. Click Save as New in the Save section of the Georeference tab. This will allow a seperate file to be created. The file can be renamed and saved in a desired file.
+
+![Save as New](images/SaveAsNew.PNG)
+
+You can also export the control point data as a seperate file.
+1. Click Export Control Points in the Save section of the Georeference tab.
+
+![Export Control Point](images/ExportControlPoints.PNG)
+
+2. Name the file and save it in the desired location.
+
+After all of this is done, it is important that the project is closed correctly.
+1. Click Close Georeference under the Georeference tab of the Toolbar.
+
+![Close](images/Close.PNG)
+
+The project can be closed and ArcPro can be exited. 
 
 ## Conclusion
 
