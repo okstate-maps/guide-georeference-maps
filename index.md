@@ -6,7 +6,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ## Table of Contents
 - Introduction 
-- *[Georeferencing with ArcPro]*
+- *Georeferencing with ArcPro*
 - - Adding Files
 - - Control Points
 - - Transforming the Image
@@ -16,15 +16,17 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ## Introduction
 
-## *[Georeferencing with ArcPro]*
+Georeferencing is the process of adding geographic information to an image (i.e. maps) 
+
+## *Georeferencing with ArcPro*
 
 #### Adding Files
 
 #### Control Points
 
-### Transforming the Image
+#### Transforming the Image
 
-### Saving the Project
+#### Saving the Project
 
 ## Conclusion
 
