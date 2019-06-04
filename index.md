@@ -86,6 +86,19 @@ Once a file has been added to the project, the georeferencing process can begin.
  
  ![Control Points](images/ControlPoints.PNG)
  
+ ##### Transforming the Image
+ Transforming the image allows the raster image to be warped (better word?) so that its control points fit the real world control points. (Find better way to word this.)
+ 
+ 1. To transform the image, ensure that all necessary control points have been placed. 
+ Note: You can add more control points even after the image has been transformed.
+ 
+ 2. Click the down arrow under the transformation icon in the adjust section of the georeference tab. Then select the desired transformation.
+ Note: Spline is preffered because it renders the most accurate transformations.
+ 
+ ![Transformation](images/Transformation.PNG)
+ 
+ 3. The image is now transformed and can be saved or edited if desired.
+ 
 ##### Deleting Control Points
 Do not fret if a control point is misplaced or results in a skewed image. They are easy to delete!
 
@@ -103,7 +116,7 @@ Do not fret if a control point is misplaced or results in a skewed image. They a
 
 ![Delete](images/DeleteControlPoint.PNG)
 
-##### Transforming the Image
+(Where should I put this section?)
 
 #### Saving the Project
 
