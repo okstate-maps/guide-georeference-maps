@@ -8,19 +8,23 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Introduction 
 - *[Georeferencing with ArcPro]*
 - - Adding Files
-- - Adding Points
-- - Deleting Points
+- - Control Points
+- - Transforming the Image
 - - Saving the Project
 - Conclusion
 - Further Reading/Resources
 
 ## Introduction
 
-## *[delicious content]*
+## *[Georeferencing with ArcPro]*
 
-#### Sub Delicious Content
+#### Adding Files
 
-#### More Sub Delicious
+#### Control Points
+
+### Transforming the Image
+
+### Saving the Project
 
 ## Conclusion
 
