@@ -27,6 +27,7 @@ Georeferencing is the process of adding geographic information to a raster (or s
 2. Click "Map" under "New Blank Templates".
     
 ![New Project](images/NewProject.PNG)
+
 3. Name your project and choose a location that will be easy to access (fix wording). Then click "OK". A new screen should open. 
 
 #### Adding Files
