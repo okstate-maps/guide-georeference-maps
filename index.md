@@ -84,9 +84,24 @@ Once a file has been added to the project, the georeferencing process can begin.
  6. Continue this step until enough control points are added for the desired transformation. The more control points that are added, the more precise the transformation will be. It is also best to have the control points spaced out instead of clumped together to avoid skewing the image. 
  Note: Spline is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when fewer control points are possible. 
  
- ![Control Points](images/ControlPoints/PNG)
+ ![Control Points](images/ControlPoints.PNG)
  
 ##### Deleting Control Points
+Do not fret if a control point is misplaced or results in a skewed image. They are easy to delete!
+
+![Bad Control Point](images/BadControlPoint.PNG)
+
+1. To delete a control point, click "Control Point Table" in the "Review" section of the "Georeference" tab. 
+
+![Control Point Table](images/ControlPointTable.PNG)
+
+2. A table will open at the bottom of the screen. This table shows all of the control point data. If the incorrect control point is unknown, click the checkbox next to a point so that it is unchecked. If the image becomes unskewed, this is the faulty control point. 
+
+![CP Table](images/CPTable.PNG)
+
+3. To delete a control point, click "Delete" in the "Review" section of the "Georeference" tab. 
+
+![Delete](images/DeleteControlPoint.PNG)
 
 ##### Transforming the Image
 
