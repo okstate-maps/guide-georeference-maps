@@ -36,6 +36,12 @@ Now that a new project has been created, a folder connection must be added in or
 
 ![Folder Connection](images/FolderConnection.PNG)
 
+2. Select the desired folder and click "OK".
+3. The folder connection should appear under "Folders" in the Catalog pane. 
+
+![Catalog Connection](images/CatalogConnection.PNG)
+
+
 #### Control Points
 
 #### Transforming the Image
