@@ -41,10 +41,26 @@ Now that a new project has been created, a folder connection must be added in or
 
 ![Catalog Connection](images/CatalogConnection.PNG)
 
-4. Locate desired data. Right click the file and click "Add to Current Map". The selected file is now added to the project and should appear in the contents pane. 
+4. Locate desired data. Right click the file and click "Add to Current Map". The selected file is now added to the project and should appear in the contents pane. (It is okay if the raster is not displayed on the map as long as the file is visible in the Contents pane.)
 
 ![Added File](images/AddedFile.PNG)
-#### Control Points
+
+Note: For georeferencing, JPGs are the preferred file type. 
+
+#### Georeferencing
+
+Once a file has been added to the project, the georeferencing process can begin. 
+
+1. In order to start georeferencing, you must select the desired file in the contents pane.
+2. Click Georeference under the Imagery tab of the Toolbar. A new Georeference tab should appear on the Toolbar. 
+
+![Georeference](images/Georeference.PNG)
+
+3. Click "Fit to Display" under the Georeference tab. If the raster image was not visible before, it should now appear on the map. The size of the image can be adjusted by zooming in or out and clicking "Fit to Display" as needed. (The image does not need to be the exact size of the geographical area it covers. This will be corrected during the georeferencing process.)
+
+![Fit to Display](images/FittoDisplay.PNG)
+
+ ##### Adding Control Points
 
 #### Transforming the Image
 
