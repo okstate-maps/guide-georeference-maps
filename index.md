@@ -26,7 +26,7 @@ Georeferencing is the process of adding geographic information to a raster (or s
 1. To begin a new project, open ArcGIS on your desktop.
 2. Click "Map" under "New Blank Templates".
     
-![New Project](images/NewProject.png)
+![New Project](images/NewProject.PNG)
 
 3. Name your project and choose a location that will be easy to access (fix wording). Then click "OK". A new screen should open. 
 
@@ -34,7 +34,7 @@ Georeferencing is the process of adding geographic information to a raster (or s
 Now that a new project has been created, a folder connection must be added in order to import data. 
 1. To do this, click "Add Folder" under the "Insert" tab of the Toolbar to create a folder connection.
 
-![Folder Connection](FolderConnection.PNG)
+![Folder Connection](images/FolderConnection.PNG)
 
 #### Control Points
 
