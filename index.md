@@ -144,6 +144,8 @@ After all of this is done, it is important that the project is closed correctly.
 
 The project can be closed and ArcPro can be exited. 
 
+(What about the lat and long lines?)
+
 ## Conclusion
 
 ## Further Reading/Resources
