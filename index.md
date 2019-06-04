@@ -41,7 +41,9 @@ Now that a new project has been created, a folder connection must be added in or
 
 ![Catalog Connection](images/CatalogConnection.PNG)
 
+4. Locate desired data. Right click the file and click "Add to Current Map". The selected file is now added to the project and should appear in the contents pane. 
 
+![Added File](images/AddedFile.PNG)
 #### Control Points
 
 #### Transforming the Image
