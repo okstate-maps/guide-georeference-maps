@@ -9,9 +9,10 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - *Georeferencing with ArcPro*
 - - Starting a New Project
 - - Adding Files
-- - Adding Control Points
-- - Transforming the Image
-- - Deleting Control Points
+- - Georeferencing
+- - - Adding Control Points
+- - - Transforming the Image
+- - - Deleting Control Points
 - - Saving the Project
 - Conclusion
 - Further Reading/Resources
