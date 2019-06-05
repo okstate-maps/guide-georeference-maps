@@ -46,7 +46,7 @@ Now that a new project has been created, a folder connection must be added to im
 
 ![Added File](images/AddedFile.PNG)
 
-Note: For georeferencing in ArcPro, JPGs are the preferred file type. 
+* *Note: For georeferencing in ArcPro, JPGs are the preferred file type. 
 
 #### Georeferencing
 
@@ -81,7 +81,7 @@ Once a file has been added to the project, the georeferencing process can begin.
  
  ![Control Points](images/ControlPoints.PNG)
  
-  Note: Spline is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when this number of control points is not possible.
+* *Note: Spline is the preferred transformation for accuracy and requires 10 or more control points, but there are other transformations when this number of control points is not possible.
   
  ##### Transforming the Image
  Transforming the image allows the raster image to be manipulated so the control points overlap.
@@ -92,7 +92,7 @@ Once a file has been added to the project, the georeferencing process can begin.
  
  ![Transformation](images/Transformation.PNG)
  
- Note: **Spline** is preffered because it renders the most accurate transformations.
+* *Note: **Spline** is preffered because it renders the most accurate transformations.
  
  3. The image is now transformed and can be saved or edited if desired.
  
