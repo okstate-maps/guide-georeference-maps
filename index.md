@@ -143,6 +143,7 @@ The project can be closed and ArcPro can be exited.
 (What about the lat and long lines?)
 
 ## Conclusion
+Georeferencing is a very usefull skill and is made simple by ArcPro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
 
 ## Further Reading/Resources
 
