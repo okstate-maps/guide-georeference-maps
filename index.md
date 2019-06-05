@@ -93,6 +93,7 @@ Once a file has been added to the project, the georeferencing process can begin.
  ![Transformation](images/Transformation.PNG)
  
  Note: **Spline** is preffered because it renders the most accurate transformations.
+ 
  3. The image is now transformed and can be saved or edited if desired.
  
 ##### Deleting Control Points
