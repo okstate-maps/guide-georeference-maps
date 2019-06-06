@@ -58,7 +58,7 @@ Once a file has been added to the project, the georeferencing process can begin.
 
 ![Georeference](images/Georeference.PNG)
 
-3. Click **Fit to Display** under the *Georeference* tab. If the raster image was not visible before, it should now appear on the map. The size of the image can be adjusted by zooming in or out and clicking **Fit to Display** as needed. The image does not need to be the exact size of the geographic area it covers. This will be corrected during the georeferencing process.
+3. Click **Fit to Display** under the *Georeference* tab. If the raster image was not visible before, it should now appear on the map. The size of the image can be adjusted by zooming in or out and clicking **Fit to Display** as needed, or by using the **Move**, **Rotate** and **Scale** tools. The image does not need to be the exact size of the geographic area it covers. This will be corrected during the georeferencing process.
 
 ![Fit to Display](images/FittoDisplay.PNG)
 
