@@ -69,7 +69,7 @@ Once a file has been added to the project, the georeferencing process can begin.
  
  ![Add Control Points](images/AddControlPoints.PNG)
  
- 2. For maps, locate the point of an intersecting latitude and longitude line on the raster image and click. A red box should appear, indicating the selection on the map 
+ 2. For maps, locate the point of an intersecting latitude and longitude line on the raster image and click. A red box should appear, indicating the selection on the map. Be as precise as possible.
  
  ![Initial Selection](images/InitialSelection.PNG)
  
