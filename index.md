@@ -53,7 +53,7 @@ Now that a new project has been created, a folder connection must be added to im
 
 Once a file has been added to the project, the georeferencing process can begin. 
 
-1. In order to start georeferencing, desired file must be selected in the contents pane.
+1. In order to start georeferencing, the desired file must be selected in the contents pane.
 2. Click **Georeference** under the *Imagery* tab of the toolbar. A new *Georeference* tab should appear on the toolbar. 
 
 ![Georeference](images/Georeference.PNG)
