@@ -118,6 +118,7 @@ Do not fret if a control point is misplaced or results in a skewed image. They a
 When finished with the project, it is important to ensure that it is saved properly. Clicking the save icon in the top left corner of the screen will not save the georeferenced data. 
 
 There are two ways to ensure a proper save.
+
 -1. Click **Save** in the *Save* section of the *Georeference* tab. This will update the existing raster file that was imported into the project
 
 ![Save](images/Save.PNG)
