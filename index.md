@@ -6,7 +6,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ## Table of Contents
 - Introduction 
-- *Georeferencing with ArcPro*
+- *Georeferencing with ArcGIS Pro*
 - - Starting a New Project
 - - Adding Files
 - - Georeferencing
@@ -21,7 +21,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 Georeferencing is the process of adding geographic information to a raster image (i.e. maps, satelite images and aerial photographs) so mapping software can place the image in its real world location. This is done by assigning geographic coordinates to the raster's pixels. 
 
-## *Georeferencing with ArcPro*
+## *Georeferencing with ArcGIS Pro*
 
 #### Starting a New Project
 
@@ -47,7 +47,7 @@ Now that a new project has been created, a folder connection must be added to im
 
 ![Added File](images/AddedFile.PNG)
 
-*Note: For georeferencing in ArcPro, JPGs are the preferred file type.* 
+*Note: For georeferencing in ArcGIS Pro, JPGs are the preferred file type.* 
 
 #### Georeferencing
 
@@ -128,7 +128,7 @@ There are two ways to ensure a proper save.
 ![Save as New](images/SaveAsNew.PNG)
 
 You can also export the control point data as a seperate file.
-1. Click **Export Control Points** in the *Save* section of the *Georeference* tab. This will create a text file with all of the control point data.
+1. Click **Export Control Points** in the *Save* section of the *Georeference* tab. This will create a text file that contains the control point data.
 
 ![Export Control Point](images/ExportControlPoints.PNG)
 
@@ -139,12 +139,12 @@ After all of this is done, it is important that the project is closed correctly.
 
 ![Close](images/Close.PNG)
 
-The project can be closed and ArcPro can be exited. 
+The project can be closed and ArcGIS Pro can be exited. 
 
 (What about the lat and long lines?)
 
 ## Conclusion
-Georeferencing is a very usefull skill and is made simple by ArcPro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
+Georeferencing is a very usefull skill and is made simple by ArcGIS Pro. It only takes a little practice and time to transform a raster image by addind geographic information to its pixels. 
 
 ## Further Reading/Resources
 
