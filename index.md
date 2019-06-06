@@ -1,5 +1,5 @@
 ## About
-Last Updated *[06/05/2019]*   
+Last Updated *[06/06/2019]*   
 Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room)
 
 ![img example](images/OSULogo.png)
@@ -30,7 +30,7 @@ Georeferencing is the process of adding geographic information to a raster image
     
 ![New Project](images/NewProject.PNG)
 
-3. Name the project and choose a file location that will be easy to access. Then click **OK**. A new screen should open with a map of the world. 
+3. Name the project and choose a file location that will be easy to access. Then click **OK**. A new world map should open. 
 
 #### Adding Files
 Now that a new project has been created, a folder connection must be added to import data. 
