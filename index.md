@@ -19,7 +19,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ## Introduction
 
-Georeferencing is the process of adding geographic information to a raster image (i.e. maps, satelite images and aerial photographs) so mapping software can place the image in its real world location. This is done by assigning geographic coordinates to the raster's pixels. 
+Georeferencing is the process of adding geographic information to a raster image (i.e. maps, satelite images and aerial photographs). This allows mapping software to place the image in its real-world location. This is done by assigning geographic coordinates to the raster's pixels. 
 
 ## *Georeferencing with ArcGIS Pro*
 
